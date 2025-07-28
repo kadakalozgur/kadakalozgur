@@ -3,7 +3,7 @@
 
 - 🎓 I'm currently studying **Software Engineering**
 - 💻 I’m working with **C, C++, and C#**
-- 🌱 I know HTML & CSS at an entry level.**
+- 🌱 I know HTML & CSS at an entry level.
 - 📫 You can reach me at: **ozgurkadakal61@gmail.com**
 
 ---
