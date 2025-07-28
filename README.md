@@ -1,4 +1,4 @@
-![Coding Animasyon](https://raw.githubusercontent.com/kadakalozgur/gif/main/coding.gif) ![AI Grok Animasyon](https://raw.githubusercontent.com/kadakalozgur/gif/main/ai-grok.gif)
+![Coding Animasyon](https://raw.githubusercontent.com/kadakalozgur/gif/main/coding.gif)
 
 ## Hi 👋 I'm Özgür Kadakal
 
