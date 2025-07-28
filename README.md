@@ -1,6 +1,6 @@
 ## Hi 👋 I'm Özgür Kadakal
 
-🎯 A passionate software engineering student from Turkey, with a growing interest in system-level programming and desktop application development.
+🎯 I'm a software engineering student from Türkiye with a passion for system-level programming and desktop application development.
 
 ---
 
