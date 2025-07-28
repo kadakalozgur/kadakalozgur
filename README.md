@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software engineering student from Turkey</h3>
 
 - 🎓 I'm currently studying **Software Engineering**
-- 💻 I’m working with **C++, and C#**
+- 💻 I’m working with **C++ & C#**
 - 🌱 I know HTML , CSS and C at an entry level.
 - 📫 You can reach me at: **ozgurkadakal61@gmail.com**
 
