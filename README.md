@@ -1,4 +1,4 @@
-![Coding Animasyon](https://raw.githubusercontent.com/kadakalozgur/gif/main/coding.gif)
+![Coding Animasyon](https://raw.githubusercontent.com/kadakalozgur/gif/main/coding.gif) ![Guardians Hacker Animasyon](https://raw.githubusercontent.com/kadakalozgur/gif/main/gladgers-hacker-gers-guardians-of-galaxy.gif)
 
 ## Hi 👋 I'm Özgür Kadakal
 
