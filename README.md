@@ -1,4 +1,4 @@
-![Animasyon](https://tenor.com/pD9GogE4ugc.gif)
+![Hackerman Animasyon](https://raw.githubusercontent.com/kadakalozgur/gif/main/hacker-hackerman.gif)
 
 ## Hi 👋 I'm Özgür Kadakal
 
