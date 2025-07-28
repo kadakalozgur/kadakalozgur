@@ -1,3 +1,5 @@
+![Animasyon](https://tenor.com/pD9GogE4ugc.gif)
+
 ## Hi 👋 I'm Özgür Kadakal
 
 🎯 I'm a software engineering student from Türkiye with a passion for system-level programming and desktop application development.
