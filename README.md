@@ -29,7 +29,7 @@
 
 ---
 
-### 📌 Pinned Projects
+### 📌 My Projects
 
 - 🃏 **Black_Jack_Game**  
   A simple console-based blackjack game built with C#.
