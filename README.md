@@ -39,10 +39,10 @@
 - 🧮 **Calculator**  
   A basic Windows Forms calculator app written in C#.
 
-- 🎲 **Dice Game**  
+- 🎲 **Dice_Game**  
   A simple dice-rolling game built with C#, featuring random number generation and basic UI logic.
 
-- 💣 **Bomb Dodge Game**  
+- 💣 **Bomb_Dodge_Game**  
   A 2D game where the player avoids falling bombs. Created with C# and Windows Forms for basic game mechanics.
 
 > More projects coming soon...
