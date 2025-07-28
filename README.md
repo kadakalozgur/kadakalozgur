@@ -1,5 +1,3 @@
-![Hackerman Animasyon](https://raw.githubusercontent.com/kadakalozgur/gif/main/hacker-hackerman.gif)
-
 ## Hi 👋 I'm Özgür Kadakal
 
 🎯 I'm a software engineering student from Türkiye with a passion for system-level programming and desktop application development.
