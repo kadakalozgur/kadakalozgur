@@ -34,19 +34,14 @@
 ### 📌 My Projects
 
 - 🃏 **Black_Jack_Game**  
-  A simple console-based blackjack game built with C#.
 
 - 🧮 **Calculator**  
-  A basic Windows Forms calculator app written in C#.
 
 - 🎲 **Dice_Game**  
-  A simple dice-rolling game built with C#, featuring random number generation and basic UI logic.
 
 - 💣 **Bomb_Dodge_Game**  
-  A 2D game where the player avoids falling bombs. Created with C# and Windows Forms for basic game mechanics.
 
 - 🔐 Login Form App
-  This project includes a simple and elegant login & registration system using Windows Forms.
 
 > More projects coming soon...
 
