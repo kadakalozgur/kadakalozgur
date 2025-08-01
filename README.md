@@ -46,7 +46,7 @@
   A 2D game where the player avoids falling bombs. Created with C# and Windows Forms for basic game mechanics.
 
 - 🔐 Login Form App
-  
+  This project includes a simple and elegant login & registration system using Windows Forms.
 
 > More projects coming soon...
 
