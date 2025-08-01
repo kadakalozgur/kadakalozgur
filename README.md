@@ -11,7 +11,7 @@
 - 💻 I mainly work with **C++** and **C#**, focusing on console and desktop-based applications.
 - 🌐 I have a beginner-level understanding of **HTML** and **CSS**, which I use to build and style simple web pages.
 - 🧠 I'm always eager to learn new technologies and improve my skills through real-world projects.
-- 📫 Reach me at: [ozgurkadakal61@gmail.com](mailto:ozgurkreach@gmail.com)
+
 
 ---
 
