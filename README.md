@@ -2,13 +2,13 @@
 ![Guardians Hacker Animasyon](https://raw.githubusercontent.com/kadakalozgur/gif/main/gladgers-hacker-gers-guardians-of-galaxy.gif) 
 ![Hacker Cat Animasyon](https://raw.githubusercontent.com/kadakalozgur/gif/main/ghostedvpn-hacker-cat.gif)
 
-# Hi 👋 I'm Özgür Kadakal
+## Hi 👋 I'm Özgür Kadakal
 
 🎯 I'm a software engineering student from Türkiye with a passion for system-level programming and desktop application development.
 
 ---
 
-## 🚀 About Me
+### 🚀 About Me
 - 🎓 I'm currently studying **Software Engineering**.
 - 💻 I mainly work with **C++**, **C#**, and **Unity**, focusing on console and desktop-based applications.
 - 🌐 I have a beginner-level understanding of **HTML** and **CSS**, which I use to build and style simple web pages.
@@ -17,7 +17,7 @@
 
 ---
 
-## 🛠️ Languages and Tools
+### 🛠️ Languages and Tools
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" />
@@ -29,25 +29,26 @@
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 ![Özgür's GitHub stats](https://github-readme-stats.vercel.app/api?username=kadakalozgur&show_icons=true&theme=tokyonight&hide=prs,issues)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kadakalozgur&layout=compact&theme=tokyonight)
 
 ---
 
-## 📌 My Projects
+### 📌 My Projects
 
-<div align="center">
+- 🚗 **Endless Traffic Runner**
 
-| Project | Screenshot |
-|---------|------------|
-| **Endless Traffic Runner** | ![Endless Traffic Runner](https://raw.githubusercontent.com/kadakalozgur/project-images/main/endless-traffic-runner.png) |
-| **Black_Jack_Game** | ![Black Jack Game](https://raw.githubusercontent.com/kadakalozgur/project-images/main/black-jack-game.png) |
-| **Endless Runner Game** | ![Endless Runner](https://raw.githubusercontent.com/kadakalozgur/project-images/main/endless-runner.png) |
-| **Calculator** | ![Calculator](https://raw.githubusercontent.com/kadakalozgur/project-images/main/calculator.png) |
-| **Dice_Game** | ![Dice Game](https://raw.githubusercontent.com/kadakalozgur/project-images/main/dice-game.png) |
-| **Login Form App** | ![Login Form](https://raw.githubusercontent.com/kadakalozgur/project-images/main/login-form.png) |
-| **Bomb_Dodge_Game** | ![Bomb Dodge Game](https://raw.githubusercontent.com/kadakalozgur/project-images/main/bomb-dodge-game.png) |
+- 🃏 **Black_Jack_Game**  
 
-</div>
+- 🏃‍♂️ **Endless Runner Game**
+
+- 🧮 **Calculator**  
+
+- 🎲 **Dice_Game**  
+
+- 🔐 **Login Form App**
+
+- 💣 **Bomb_Dodge_Game**  
 
 > More projects coming soon...
