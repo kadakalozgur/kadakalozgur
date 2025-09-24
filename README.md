@@ -39,6 +39,8 @@
 
 ### 📌 My Projects
 
+- 🎵 **Music_Player**
+
 - ⚔ **Attack_Game**
 
 - 🚗 **Endless_Traffic_Runner**
