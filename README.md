@@ -39,6 +39,8 @@
 
 ### 📌 My Projects
 
+- 🎮 **Game_Launcher**
+
 - 🎵 **Music_Player**
 
 - ⚔ **Attack_Game**
