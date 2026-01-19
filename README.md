@@ -39,6 +39,8 @@
 
 ### 📌 My Projects
 
+- 💣 **Minesweeper**
+  
 - 🎮 **Game_Launcher**
 
 - 🎵 **Music_Player**
