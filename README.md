@@ -39,6 +39,8 @@
 
 ### 📌 My Projects
 
+- 🍅 **Pomodoro_App**
+
 - 💣 **Minesweeper**
   
 - 🎮 **Game_Launcher**
