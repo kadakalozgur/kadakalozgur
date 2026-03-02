@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 - 🎓 I'm currently studying **Software Engineering**.
-- 💻 I mainly work with **C++**, **C#**, **SQL** and **Unity**, focusing on console and desktop-based applications.
+- 💻 I mainly work with **C++**, **C#**, **SQL**, **Git/GitHub** and **Unity**, focusing on console and desktop-based applications.
 - 🌐 I have a beginner-level understanding of **HTML** and **CSS**, which I use to build and style simple web pages.
 - 🧠 I'm always eager to learn new technologies and improve my skills through real-world projects.
 - 📫 Reach me at: [ozgurkreach@gmail.com](mailto:ozgurkreach@gmail.com)
