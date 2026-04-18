@@ -40,6 +40,8 @@
 
 ### 📌 My Projects
 
+- 🔐 **VaultNet - Secure Vault API**
+
 - 🍅 **Pomodoro_App**
 
 - 💣 **Minesweeper**
