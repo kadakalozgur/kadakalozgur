@@ -1,7 +1,3 @@
-![Coding Animasyon](https://raw.githubusercontent.com/kadakalozgur/gif/main/coding.gif) 
-![Guardians Hacker Animasyon](https://raw.githubusercontent.com/kadakalozgur/gif/main/gladgers-hacker-gers-guardians-of-galaxy.gif) 
-![Hacker Cat Animasyon](https://raw.githubusercontent.com/kadakalozgur/gif/main/ghostedvpn-hacker-cat.gif)
-
 ## Hi 👋 I'm Özgür Kadakal
 
 🎯 I'm a software engineering student from Türkiye with a passion for system-level programming and desktop application development.
