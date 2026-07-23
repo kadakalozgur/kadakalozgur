@@ -10,7 +10,7 @@
 - 🌐 I have a beginner-level understanding of **HTML** and **CSS**, which I use to build and style simple web pages.
 - 🧠 I'm always eager to learn new technologies and improve my skills through real-world projects.
 - 📫 Reach me at: [ozgurkreach@gmail.com](mailto:ozgurkreach@gmail.com)
-- 🌐 My Website (Turkish) : https://kadakalozgur.github.io/ozgurkadakal.github.io/index.html
+- 🌐 My Website : https://kadakalozgur.github.io/ozgurkadakal.github.io/index.html
 
 ---
 
