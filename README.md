@@ -36,6 +36,8 @@
 
 ### 📌 My Projects
 
+- 💳 **DigitalWallet - Secure Digital Wallet API**
+
 - 🔐 **VaultNet - Secure Vault API**
 
 - 🍅 **Pomodoro_App**
@@ -61,7 +63,5 @@
 - 🔐 **Login Form App**
 
 - 💣 **Bomb_Dodge_Game**
-
-- 💳 **DigitalWallet - Secure Digital Wallet API**
 
 > More projects coming soon...
