@@ -60,6 +60,8 @@
 
 - 🔐 **Login Form App**
 
-- 💣 **Bomb_Dodge_Game**  
+- 💣 **Bomb_Dodge_Game**
+
+- 💳 **DigitalWallet - Secure Digital Wallet API**
 
 > More projects coming soon...
