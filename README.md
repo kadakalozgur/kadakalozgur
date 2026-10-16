@@ -18,7 +18,9 @@
 <div align="center"> 
   <a href="https://kadakalozgur.github.io/ozgurkadakal.github.io/index.html" target="_blank"> 
     <img src="https://img.shields.io/badge/Visit_My_Portfolio-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portfolio" /> 
-  </a> 
+  </a>
+  &nbsp;&nbsp;
+  <img src="https://hits.sh/github.com/kadakalozgur/kadakalozgur.svg?style=for-the-badge&label=Profile%20Views&color=38BDF8&labelColor=1E293B" alt="Profile Views" /> 
 </div> 
 
 <br>
@@ -109,15 +111,26 @@
 
 ---
 
+### 📊 **GitHub Stats**
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kadakalozgur&theme=tokyonight" alt="Top Languages by Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kadakalozgur&theme=tokyonight" alt="Top Languages by Commit" />
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kadakalozgur&theme=tokyonight" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kadakalozgur&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" /> 
+</div>
+
+<br>
+
+---
+
 <br>
 
 <div align="center"> 
-  <img src="https://hits.sh/github.com/kadakalozgur/kadakalozgur.svg?style=for-the-badge&label=Profile%20Views&color=38BDF8&labelColor=1E293B" alt="Profile Views" /> 
-  <br><br> 
-
-  <img height="220" src="https://github-readme-streak-stats.herokuapp.com/?user=kadakalozgur&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak Stats" /> 
-  <br><br>
-
   <h3>📫 Contact Me</h3>
   <a href="mailto:ozgurkreach@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail" />
