@@ -106,7 +106,7 @@
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kadakalozgur&theme=tokyonight" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kadakalozgur&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" /> 
+  <img src="https://streak-stats.demolab.com/?user=kadakalozgur&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </div>
 
 <br>
