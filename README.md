@@ -25,19 +25,20 @@
 
 ---
 
+### 🚀 **Featured Project**
+
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="750">
+      <td align="center" width="500">
         <br>
         <a href="https://vaultnet-v2-kadakalozgur.vercel.app" target="_blank">
-          <img src="https://api.microlink.io/?url=https://vaultnet-v2-kadakalozgur.vercel.app&screenshot=true&meta=false&embed=screenshot.url" width="680" alt="VaultNet v2 Preview" />
+          <img src="https://api.microlink.io/?url=https://vaultnet-v2-kadakalozgur.vercel.app&screenshot=true&meta=false&embed=screenshot.url" width="400" alt="VaultNet v2 Preview" />
         </a>
         <h3>🔐 VaultNet v2 — Full-Stack Application</h3>
         <p>
-          A modern, full-stack web application designed with a clean user interface, secure data management, and scalable backend architecture. Built to deliver seamless performance and deployed live on the cloud.
+          A modern, full-stack web application designed with a clean user interface, secure data management, and scalable backend architecture.
         </p>
-        <br>
         <a href="https://vaultnet-v2-kadakalozgur.vercel.app" target="_blank">
           <img src="https://img.shields.io/badge/🌐_Live_Demo-38BDF8?style=for-the-badge&logo=vercel&logoColor=0D1117" alt="Live Demo" />
         </a>
