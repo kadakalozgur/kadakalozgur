@@ -68,7 +68,7 @@
       </td>
       <td align="center">
         <br>
-        <img src="https://skillicons.dev/icons?i=cs,cpp,dotnet&theme=dark" alt="Backend Icons" />
+        <img src="https://skillicons.dev/icons?i=cs,dotnet&theme=dark" alt="Backend Icons" />
         <br><br>
       </td>
     </tr>
