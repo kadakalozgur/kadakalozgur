@@ -56,6 +56,8 @@
 
 ---
 
+### 🛠️ **Skills & Technologies**
+
 <br>
 
 <div align="center">
