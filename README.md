@@ -26,14 +26,29 @@
 ---
 
 <div align="center">
-  <h3>🚀 Featured Project — VaultNet v2</h3>
-  <a href="https://github.com/kadakalozgur/VaultNet-v2-FullStack" target="_blank" title="Source Code on GitHub">
-    <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub Repo" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://vaultnet-v2-kadakalozgur.vercel.app" target="_blank" title="Live Demo on Vercel">
-    <img src="https://skillicons.dev/icons?i=vercel&theme=dark" alt="Live Demo" />
-  </a>
+  <table>
+    <tr>
+      <td align="center" width="750">
+        <br>
+        <a href="https://vaultnet-v2-kadakalozgur.vercel.app" target="_blank">
+          <img src="https://api.microlink.io/?url=https://vaultnet-v2-kadakalozgur.vercel.app&screenshot=true&meta=false&embed=screenshot.url" width="680" alt="VaultNet v2 Preview" />
+        </a>
+        <h3>🔐 VaultNet v2 — Full-Stack Application</h3>
+        <p>
+          A modern, full-stack web application designed with a clean user interface, secure data management, and scalable backend architecture. Built to deliver seamless performance and deployed live on the cloud.
+        </p>
+        <br>
+        <a href="https://vaultnet-v2-kadakalozgur.vercel.app" target="_blank">
+          <img src="https://img.shields.io/badge/🌐_Live_Demo-38BDF8?style=for-the-badge&logo=vercel&logoColor=0D1117" alt="Live Demo" />
+        </a>
+        &nbsp;&nbsp;
+        <a href="https://github.com/kadakalozgur/VaultNet-v2-FullStack" target="_blank">
+          <img src="https://img.shields.io/badge/📂_GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" />
+        </a>
+        <br><br>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>
