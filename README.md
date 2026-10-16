@@ -11,7 +11,7 @@
 - 🖥️ **Frontend & Desktop:** Developing desktop applications with **.NET (Windows Forms)** and responsive web interfaces using **HTML**, **CSS**, **JavaScript**, and **Bootstrap**.
 - 🗄️ **Database Management:** Gaining hands-on experience in data organization using **SQL Server (SSMS)**, **SQL**, and cloud-based **Supabase**.
 - ☁️ **Cloud & DevOps:** Managing deployments and containers with **Azure**, **Vercel**, and **Docker**.
-- 📫 **Get in Touch:** ozgurkreach@gmail.com
+- 📫 **Reach Me At:** ozgurkreach@gmail.com
 
 <br>
 
