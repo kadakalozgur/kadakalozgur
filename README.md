@@ -83,7 +83,7 @@
     <tr>
       <td align="center">
         <br>
-        <img src="https://skillicons.dev/icons?i=sql,supabase,azure,vercel,docker&theme=dark" alt="Database & Cloud Icons" />
+        <img src="https://skillicons.dev/icons?i=mysql,supabase,azure,vercel,docker&theme=dark" alt="Database & Cloud Icons" />
         <br><br>
       </td>
       <td align="center">
