@@ -15,13 +15,9 @@
 
 <br>
 
-<div align="center"> 
-  <a href="https://kadakalozgur.github.io/ozgurkadakal.github.io/index.html" target="_blank"> 
-    <img src="https://img.shields.io/badge/Visit_My_Portfolio-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portfolio" /> 
-  </a>
-  &nbsp;&nbsp;
-  <img src="https://hits.sh/github.com/kadakalozgur/kadakalozgur.svg?style=for-the-badge&label=Profile%20Views&color=38BDF8&labelColor=1E293B" alt="Profile Views" /> 
-</div> 
+<div align="center">
+  <a href="https://kadakalozgur.github.io/ozgurkadakal.github.io/index.html" target="_blank"><img src="https://img.shields.io/badge/Visit_My_Portfolio-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portfolio" /></a>&nbsp;&nbsp;<img src="https://hits.sh/github.com/kadakalozgur/kadakalozgur.svg?style=for-the-badge&label=Profile%20Views&color=38BDF8&labelColor=1E293B" alt="Profile Views" />
+</div>
 
 <br>
 
@@ -34,20 +30,12 @@
     <tr>
       <td align="center" width="500">
         <br>
-        <a href="https://vaultnet-v2-kadakalozgur.vercel.app" target="_blank">
-          <img src="https://api.microlink.io/?url=https://vaultnet-v2-kadakalozgur.vercel.app&screenshot=true&meta=false&embed=screenshot.url" width="400" alt="VaultNet v2 Preview" />
-        </a>
+        <a href="https://vaultnet-v2-kadakalozgur.vercel.app" target="_blank"><img src="https://api.microlink.io/?url=https://vaultnet-v2-kadakalozgur.vercel.app&screenshot=true&meta=false&embed=screenshot.url" width="400" alt="VaultNet v2 Preview" /></a>
         <h3>🔐 VaultNet v2 — Full-Stack Application</h3>
         <p>
           A modern, full-stack web application designed with a clean user interface, secure data management, and scalable backend architecture.
         </p>
-        <a href="https://vaultnet-v2-kadakalozgur.vercel.app" target="_blank">
-          <img src="https://img.shields.io/badge/🌐_Live_Demo-38BDF8?style=for-the-badge&logo=vercel&logoColor=0D1117" alt="Live Demo" />
-        </a>
-        &nbsp;&nbsp;
-        <a href="https://github.com/kadakalozgur/VaultNet-v2-FullStack" target="_blank">
-          <img src="https://img.shields.io/badge/📂_GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" />
-        </a>
+        <a href="https://vaultnet-v2-kadakalozgur.vercel.app" target="_blank"><img src="https://img.shields.io/badge/🌐_Live_Demo-38BDF8?style=for-the-badge&logo=vercel&logoColor=0D1117" alt="Live Demo" /></a>&nbsp;&nbsp;<a href="https://github.com/kadakalozgur/VaultNet-v2-FullStack" target="_blank"><img src="https://img.shields.io/badge/📂_GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" /></a>
         <br><br>
       </td>
     </tr>
@@ -116,9 +104,6 @@
 <br>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kadakalozgur&theme=tokyonight" alt="Top Languages by Repo" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kadakalozgur&theme=tokyonight" alt="Top Languages by Commit" />
-  <br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kadakalozgur&theme=tokyonight" alt="GitHub Stats" />
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kadakalozgur&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" /> 
@@ -132,12 +117,7 @@
 
 <div align="center"> 
   <h3>📫 Contact Me</h3>
-  <a href="mailto:ozgurkreach@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail" />
-  </a>
-  <a href="https://instagram.com/kadakal_ozgur">
-    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram" />
-  </a>
+  <a href="mailto:ozgurkreach@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail" /></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/özgür-kadakal-90537537b/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" /></a>&nbsp;&nbsp;<a href="https://instagram.com/kadakal_ozgur" target="_blank"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram" /></a>
 </div> 
 
 <div align="center"> 
